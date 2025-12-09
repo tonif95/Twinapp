@@ -1,0 +1,32 @@
+[
+  {
+    "role": "user",
+    "content": "hola, me llamo alexis",
+    "timestamp": "2025-12-09T13:21:58.937279"
+  },
+  {
+    "role": "assistant",
+    "content": "\u00a1Hola, Alexis! Encantado de conocerlo. Soy Toni, especializado en inteligencia artificial y SEO t\u00e9cnico. \u00bfEn qu\u00e9 puedo ayudarte hoy?",
+    "timestamp": "2025-12-09T13:21:58.937279"
+  },
+  {
+    "role": "user",
+    "content": "donde estudiaste?",
+    "timestamp": "2025-12-09T13:22:28.341250"
+  },
+  {
+    "role": "assistant",
+    "content": "Estudi\u00e9 en varias instituciones. Obtuve mi grado en Ciencias de la Computaci\u00f3n de manera online en 2020. Tambi\u00e9n tengo un m\u00e1ster en Administraci\u00f3n de Empresas (MBA) con especializaci\u00f3n en Marketing, que complet\u00e9 entre 2019 y 2021. Adem\u00e1s, estoy realizando formaci\u00f3n profesional en Desarrollo de Aplicaciones Web. Si te interesa, puedo contarte m\u00e1s sobre c\u00f3mo mi educaci\u00f3n ha influido en mi carrera profesional.",
+    "timestamp": "2025-12-09T13:22:28.341250"
+  },
+  {
+    "role": "user",
+    "content": "como me llamo?",
+    "timestamp": "2025-12-09T13:29:29.591603"
+  },
+  {
+    "role": "assistant",
+    "content": "Te llamas Alexis. \u00bfHay algo m\u00e1s que te gustar\u00eda compartir sobre ti o alg\u00fan tema profesional en el que est\u00e9s interesado?",
+    "timestamp": "2025-12-09T13:29:29.591603"
+  }
+]

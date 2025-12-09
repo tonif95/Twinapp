@@ -1,0 +1,18 @@
+[
+  {
+    "role": "user",
+    "content": "hola, mi nombre es juan "
+  },
+  {
+    "role": "assistant",
+    "content": "¡Hola, Juan! Es un placer conocerte. ¿En qué puedo ayudarte hoy?"
+  },
+  {
+    "role": "user",
+    "content": "cual es mi nombre?"
+  },
+  {
+    "role": "assistant",
+    "content": "Tu nombre es Juan. ¿Hay algo específico sobre lo que te gustaría hablar o preguntar?"
+  }
+]
